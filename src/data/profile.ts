@@ -8,7 +8,7 @@ export const profile = {
 	location: "Galway, Ireland",
 	email: "obasi.adaeze98@gmail.com",
 	phone: "+353 89 964 2468",
-	whatsapp: "", // TODO: digits only, e.g. "353850000000"
+	whatsapp: "447979524761",
 	photo: "/adaeze-headshot.jpeg",
 	resume: "", // TODO: add a PDF to /public and set e.g. "/Adaeze-Obasi-Data-Analyst.pdf"
 	siteUrl: process.env.NEXT_PUBLIC_SITE_URL || "https://adaezeobasi.vercel.app",
